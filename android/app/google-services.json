@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "53032658849",
+    "project_id": "friend-line-chat-app",
+    "storage_bucket": "friend-line-chat-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:53032658849:android:4ee1afdb411c3bc7a78de0",
+        "android_client_info": {
+          "package_name": "com.example.calling_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA75Ai3yy7xL0ozLCnyc_UH1C8pvDzr9zM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
